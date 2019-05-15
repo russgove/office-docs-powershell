@@ -69,3 +69,4 @@ Accept pipeline input: False
 ## RELATED LINKS
 
 [SharePoint Developer Patterns and Practices](https://aka.ms/sppnp)
+[Register-PnPHubSite](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/register-pnphubsite?view=sharepoint-ps)
